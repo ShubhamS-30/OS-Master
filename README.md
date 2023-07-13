@@ -21,8 +21,8 @@ Download the project and run -> flutter pub get
 
 ## App
 
-![Alt text](./assets/images/image-1.png)
+            ![Home Page](./assets/images/image-1.png)
 
-![Alt text](./assets/images/image-2.png)
+            ![Qustions](./assets/images/image-2.png)
 
-![Alt text](./assets/images/image-3.png)
+            ![Result Page](./assets/images/image-3.png)
